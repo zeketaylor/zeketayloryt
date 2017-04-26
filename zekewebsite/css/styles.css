@@ -1,0 +1,28 @@
+
+        body {
+            background-color: gray;
+        }
+    
+        .body-initial {
+            background-color: rgba(164, 225, 255, 1);
+        }
+        
+        .silex-id-1493225840648-0 {
+            min-height: 39px;
+            width: 426px;
+            top: 5px;
+            left: 316px;
+            background-color: rgba(223, 255, 52, 1);
+        }
+        
+        .silex-id-1493229773794-6 {
+            min-height: 214px;
+            width: 191px;
+            background-color: rgba(66, 134, 244, 1);
+            top: 183px;
+            left: 2px;
+            border-width: 2px 2px 2px 2px;
+            border-style: solid;
+            border-color: #000000;
+        }
+    
